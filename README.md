@@ -1,11 +1,11 @@
 ### BlocVision
 
 * Hycon 은 글로스퍼사에서 개발하고 배포하고 있는 오픈소스입니다.
-* 개선점을 찾게 되면, 오픈소스로 기여하고자 합니다.
+* 개선점을 찾게 되면, 오픈소스로 기여하거나, 애드온으로 개발하려고 합니다.
 * 0.2.1 는 버그인지 ? 송금기능이 안됩니다.
 
 
-
+---
 
 <p align="center">
   <a href="https://hycon.io" rel="noopener" target="_blank"><img width="300" src="http://www.hycon.io/wp-content/uploads/2018/08/hycon_logo2.png" alt="Hycon logo"></a></p>
